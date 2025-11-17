@@ -16,7 +16,7 @@ $produits = [
 <table border="1">
     <tr>
         <td>Nom</td>
-        <td>Prix</td>
+        <td>Prix en euros</td>
         <td>Stock</td>
     </tr>
     <?php
