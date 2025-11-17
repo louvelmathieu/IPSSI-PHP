@@ -9,6 +9,7 @@
 <?php
 $produits = [
     ["nom" => "Produit A", "prix" => 20, "stock" => 100],
+    ["nom" => "Produit B", "prix" => 15, "stock" => 50],
     ["nom" => "Produit D", "prix" => 1, "stock" => 60],
     ["nom" => "Produit ER", "prix" => 15, "stock" => 62],
     ["nom" => "Produit C", "prix" => 30, "stock" => 75]
